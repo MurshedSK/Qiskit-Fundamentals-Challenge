@@ -21,7 +21,6 @@ My experience running the "Qiskit Fundamentals" notebook was positive overall, a
 I encountered a significant challenge when attempting Exercise 19, "Running on real IBM Quantum hardware." When I tried to save my credentials using QiskitRuntimeService.save_account(), my existing IBM API key and CRN (Cloud Resource Name) failed to authenticate.
 
 To resolve this issue, I had to create an entirely new IBMid. With this new account, I set up a new IBM Cloud instance, generated a fresh API key and CRN, and these new credentials worked perfectly. After resolving the authentication, the rest of the notebook and the job submission to the real hardware executed smoothly.
----
 
 ## 🧑‍🏫 Mentorship Request
 
